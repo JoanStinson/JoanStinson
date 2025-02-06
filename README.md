@@ -1,7 +1,7 @@
 ### Hello there! 👋🏻
 
 - 🏅 I'm currently working on becoming a Lead Game Developer.
-- 📚 I'm currently learning how to manage people better.
+- 📚 I'm currently learning how to manage teams better.
 - 😂 Fun fact: I press the hotkey to indent code every 2 seconds.
 
 <br>
